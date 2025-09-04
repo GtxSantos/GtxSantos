@@ -84,18 +84,7 @@
   </tr>
 </table>
 
-<br>
 
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/GtxSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GtxSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GtxSantos&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</p>
-
-<br>
 
 ## 📬 Entre em Contato
 
