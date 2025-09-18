@@ -1,7 +1,7 @@
 # Olá, eu sou o Gustavo! 👋
 
 <p align="left"> 
-  Sou um estudante de Engenharia de Software apaixonado por resolver problemas com tecnologia, com foco em Inteligência Artificial e desenvolvimento de software.
+  Sou um estudante apaixonado por resolver problemas com tecnologia, com foco em Inteligência Artificial e desenvolvimento de software.
 </p>
 
 - 🔭 Atualmente estou aprimorando minhas habilidades em **desenvolvimento de sistemas e Machine Learning**.
