@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo! 👋
+# Olá, eu sou o Gustavo!👋
 
 <p align="left"> 
   Sou um estudante apaixonado por resolver problemas com tecnologia, com foco em Inteligência Artificial e desenvolvimento de software.
