@@ -1,98 +1,117 @@
-# Olá, eu sou o Gustavo!👋
+# Olá, eu sou o Gustavo! 👋
 
-<p align="left"> 
-  Sou um estudante apaixonado por resolver problemas com tecnologia, com foco em Inteligência Artificial e desenvolvimento de software.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
+
+<p align="center">
+  <strong>Desenvolvedor Fullstack | .NET, Python & IA | Engenharia de Software</strong>
 </p>
 
-- 🔭 Atualmente estou aprimorando minhas habilidades em **desenvolvimento de sistemas e Machine Learning**.
-- 🌱 Buscando minha **primeira oportunidade** no mercado de tecnologia para aplicar meus conhecimentos e crescer profissionalmente.
-- 💬 Fale comigo sobre: **Python, IA, Machine Learning, e tecnologia em geral!**
+<p align="center">
+  <a href="https://portfolio-web-six-flax.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Visite_meu_Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <br>
 
-## 🛠️ Tecnologias e Ferramentas
+## 👨‍💻 Sobre Mim
+
+Sou um desenvolvedor focado em **construir soluções robustas** que unem Engenharia de Software e Inteligência Artificial. Atualmente, desenvolvo aplicações **Fullstack** modernas utilizando o ecossistema **.NET** e **JavaScript/TypeScript**, além de explorar o potencial de **Machine Learning** em produtos reais.
+
+- 🔭 **Foco Atual:** Arquitetura de Microsserviços, Cloud Computing (Azure/AWS) e Agentes de IA.
+- 🎓 **Formação:** Engenharia de Software / Ciência da Computação (PUC-Rio).
+- 🏆 **Certificações:** CS50 AI (Harvard University) & Backend .NET (Avanade).
+
+<br>
+
+## 🛠️ Stack Tecnológica
 
 <p align="left">
-  <strong>Linguagens:</strong><br>
+  <strong>Back-end & Core:</strong><br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </p>
+
 <p align="left">
-  <strong>Data Science & IA:</strong><br>
+  <strong>Front-end:</strong><br>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
+
+<p align="left">
+  <strong>IA & Data Science:</strong><br>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
+
 <p align="left">
-  <strong>Ferramentas e Plataformas:</strong><br>
+  <strong>DevOps & Tools:</strong><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
 <br>
 
-## 🚀 Principais Projetos
+## 🚀 Projetos em Destaque
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Sistema de Recomendação de Filmes</h3>
+      <h3 align="center">🏗️ Sistema de Faturamento (Microsserviços)</h3>
       <div align="center">
-        <a href="https://github.com/GtxSantos/sistema-recomenda-filmes" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
+        <a href="https://github.com/GtxSantos/SEU-REPOSITORIO-KORP" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-303030?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
-        <p>
-          <br>
-          Um sistema de recomendação híbrido que sugere filmes com base na avaliação de usuários e similaridade de conteúdo.
-        </p>
+        <p><br>Solução completa de emissão de Notas Fiscais com arquitetura distribuída.</p>
       </div>
-      <div align="center">
-        <sub>
-          <b>Tecnologias:</b> 
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
-        </sub>
-      </div>
+      <ul>
+        <li><strong>Arquitetura:</strong> Microsserviços isolados (Estoque e Faturamento).</li>
+        <li><strong>Resiliência:</strong> Tratamento de falhas e Circuit Breaker.</li>
+        <li><strong>Tech:</strong> .NET 8, Angular (Standalone), RxJS, Interlocked.</li>
+      </ul>
     </td>
     <td width="50%">
-      <h3 align="center">Calculadora Web</h3>
+      <h3 align="center">🎬 Recomendação Inteligente de Filmes</h3>
       <div align="center">
-        <a href="https://github.com/GtxSantos/Calculadora" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
+        <a href="https://github.com/GtxSantos/sistema-recomenda-filmes" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-303030?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
-        <p>
-          <br>
-          Uma calculadora funcional para praticar os fundamentos do desenvolvimento web.
-        </p>
+        <p><br>Sistema híbrido que utiliza NLP e Filtragem Colaborativa para sugestões.</p>
       </div>
-      <div align="center">
-        <sub>
-          <b>Tecnologias:</b>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-        </sub>
-      </div>
+      <ul>
+        <li><strong>Algoritmos:</strong> SVD (Surprise Lib) e TF-IDF (Similaridade de Cosseno).</li>
+        <li><strong>Integração:</strong> API do TMDB em tempo real.</li>
+        <li><strong>Tech:</strong> Python, Streamlit, Scikit-learn.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
+<br>
 
+## 🏅 Certificações
 
-## 📬 Entre em Contato
+| Instituição | Certificado | Stack |
+| :--- | :--- | :--- |
+| **Harvard University** | CS50's Introduction to AI with Python | Python, Minimax, Neural Networks |
+| **Avanade / DIO** | Bootcamp Back-end com .NET e IA | C#, .NET Core, Azure, SQL |
+| **Akad / DIO** | Fullstack Developer | JavaScript, React, APIs |
 
-<p align="left">
-  <a href="www.linkedin.com/in/gustavo-santos-076729321" target="_blank">
+<br>
+
+<div align="center">
+  <h3>📫 Vamos conversar?</h3>
+  <a href="https://www.linkedin.com/in/gustavo-santos-076729321" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="gt.santosx04@gmail.com" target="_blank">
+  <a href="mailto:gt.santosx04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-</p>
+</div>
