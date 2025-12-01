@@ -66,7 +66,7 @@ Sou um desenvolvedor focado em **construir soluções robustas** que unem Engenh
     <td width="50%">
       <h3 align="center">🏗️ Sistema de Faturamento (Microsserviços)</h3>
       <div align="center">
-        <a href="https://github.com/GtxSantos/SEU-REPOSITORIO-KORP" target="_blank">
+        <a href="https://github.com/GtxSantos/Korp_Teste_Gustavo" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Código-303030?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
         <p><br>Solução completa de emissão de Notas Fiscais com arquitetura distribuída.</p>
