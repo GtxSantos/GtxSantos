@@ -21,7 +21,7 @@
 Sou um desenvolvedor focado em **construir soluções robustas** que unem Engenharia de Software e Inteligência Artificial. Atualmente, desenvolvo aplicações **Fullstack** modernas utilizando o ecossistema **.NET** e **JavaScript/TypeScript**, além de explorar o potencial de **Machine Learning** em produtos reais.
 
 - 🔭 **Foco Atual:** Arquitetura de Microsserviços, Cloud Computing (Azure/AWS) e Agentes de IA.
-- 🎓 **Formação:** Engenharia de Software / Ciência da Computação (PUC-Rio).
+- 🎓 **Formação:** Engenharia de Software.
 - 🏆 **Certificações:** CS50 AI (Harvard University) & Backend .NET (Avanade).
 
 <br>
