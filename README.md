@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="portfolio-2026-iota-rosy.vercel.app">
+  <a href="[portfolio-2026-iota-rosy.vercel.app](https://portfolio-2026-iota-rosy.vercel.app)">
     <img src="https://img.shields.io/badge/🌐_Visite_meu_Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
