@@ -1,117 +1,74 @@
-# Olá, eu sou o Gustavo! 👋
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <!-- BANNER: Substitua a URL abaixo por uma imagem de samurai/mangá de sua preferência se quiser mudar o estilo visual -->
+  <img src="https://raw.githubusercontent.com/Victor884/Victor884/main/banner.jpg" width="100%" alt="Gustavo Dev Banner">
+
+  <br>
+
+  <!-- BOTÕES SOCIAIS -->
+  <a href="SEU_LINK_DO_GITHUB"><img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/GMAIL-111111?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="SEU_LINK_DO_CURRICULO_OU_PORTFOLIO"><img src="https://img.shields.io/badge/RESUME-111111?style=flat-square&logo=readme&logoColor=white"></a>
+
+  <br>
+
+  <!-- PILLS DE MEIOS DE ATUAÇÃO -->
+  <img src="https://img.shields.io/badge/BACKEND%20DEVELOPMENT-0d1117?style=flat-square"> <img src="https://img.shields.io/badge/AI%20AUTOMATION-0d1117?style=flat-square"> <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0d1117?style=flat-square">
 </div>
 
-<p align="center">
-  <strong>Desenvolvedor Fullstack | .NET, Python & IA | Engenharia de Software</strong>
-</p>
+---
 
-<p align="center">
-  <a href="https://portfolio-2026-iota-rosy.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Visite_meu_Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<br>
-
-## 👨‍💻 Sobre Mim
-
-Sou um desenvolvedor focado em **construir soluções robustas** que unem Engenharia de Software e Inteligência Artificial. Atualmente, desenvolvo aplicações **Fullstack** modernas utilizando o ecossistema **.NET** e **JavaScript/TypeScript**, além de explorar o potencial de **Machine Learning** em produtos reais.
-
-- 🔭 **Foco Atual:** Arquitetura de Microsserviços, Cloud Computing (Azure/AWS) e Agentes de IA.
-- 🎓 **Formação:** Engenharia de Software.
-- 🏆 **Certificações:** CS50 AI (Harvard University) & Backend .NET (Avanade).
-
-<br>
-
-## 🛠️ Stack Tecnológica
-
-<p align="left">
-  <strong>Back-end & Core:</strong><br>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-</p>
-
-<p align="left">
-  <strong>Front-end:</strong><br>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</p>
-
-<p align="left">
-  <strong>IA & Data Science:</strong><br>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-
-<p align="left">
-  <strong>DevOps & Tools:</strong><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-<br>
-
-## 🚀 Projetos em Destaque
+## Know About Me
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🏗️ Sistema de Faturamento (Microsserviços)</h3>
-      <div align="center">
-        <a href="https://github.com/GtxSantos/Korp_Teste_Gustavo" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Código-303030?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
-        </a>
-        <p><br>Solução completa de emissão de Notas Fiscais com arquitetura distribuída.</p>
-      </div>
-      <ul>
-        <li><strong>Arquitetura:</strong> Microsserviços isolados (Estoque e Faturamento).</li>
-        <li><strong>Resiliência:</strong> Tratamento de falhas e Circuit Breaker.</li>
-        <li><strong>Tech:</strong> .NET 8, Angular (Standalone), RxJS, Interlocked.</li>
-      </ul>
+    <td width="40%" align="center">
+      <!-- FOTO DE PERFIL / ARTWORK (Estilo Samurai) -->
+      <img src="https://raw.githubusercontent.com/Victor884/Victor884/main/avatar.jpg" width="90%">
     </td>
-    <td width="50%">
-      <h3 align="center">🎬 Recomendação Inteligente de Filmes</h3>
-      <div align="center">
-        <a href="https://github.com/GtxSantos/sistema-recomenda-filmes" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Código-303030?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
-        </a>
-        <p><br>Sistema híbrido que utiliza NLP e Filtragem Colaborativa para sugestões.</p>
-      </div>
-      <ul>
-        <li><strong>Algoritmos:</strong> SVD (Surprise Lib) e TF-IDF (Similaridade de Cosseno).</li>
-        <li><strong>Integração:</strong> API do TMDB em tempo real.</li>
-        <li><strong>Tech:</strong> Python, Streamlit, Scikit-learn.</li>
-      </ul>
+    <td width="60%" valign="top">
+      <p>Hey there, I'm Gustavo Santos.</p>
+      <p>Sou estudante de Engenharia de Software (5º período) focado em construir arquiteturas de backend sólidas e workflows automatizados orientados a Inteligência Artificial. Meu objetivo é transformar processos manuais complexos em sistemas inteligentes e eficientes.</p>
+      <p>Minha bagagem une o rigor técnico da engenharia com a prática em soluções de IA e suporte a infraestruturas de missão crítica no setor de hospitalidade (Hilton Copacabana). Busco constantemente aplicar boas práticas de design como SOLID e Clean Architecture para garantir escalabilidade e segurança.</p>
+      <p>O trabalho que mais me brilha os olhos envolve arquitetura de dados, orquestração de agentes autônomos e criação de APIs robustas que entregam impacto direto e mensurável no negócio.</p>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-## 🏅 Certificações
-
-| Instituição | Certificado | Stack |
-| :--- | :--- | :--- |
-| **Harvard University** | CS50's Introduction to AI with Python | Python, Minimax, Neural Networks |
-| **Avanade / DIO** | Bootcamp Back-end com .NET e IA | C#, .NET Core, Azure, SQL |
-| **Akad / DIO** | Fullstack Developer | JavaScript, React, APIs |
-
-<br>
+## Technical Arsenal
 
 <div align="center">
-  <h3>📫 Vamos conversar?</h3>
-  <a href="https://www.linkedin.com/in/gustavo-santos-076729321" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gt.santosx04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <!-- BADGES DO ARSENAL TÉCNICO -->
+  <img src="https://img.shields.io/badge/PYTHON-111111?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/N8N-111111?style=flat-square&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/REACT-111111?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-111111?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-111111?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/DOCKER-111111?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-111111?style=flat-square&logo=git&logoColor=white">
 </div>
+
+<br>
+
+<!-- TABELA DE SUB-ÁREAS (IGUAL AO RODAPÉ DA IMAGEM) -->
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Backend Engineering</strong><br>
+      .NET 8, C#, Clean Architecture, SOLID, REST APIs, Entity Framework, Node.js e estruturação de microsserviços.
+    </td>
+    <td width="33%" valign="top">
+      <strong>AI & Automation</strong><br>
+      Workflows Agênticos no n8n, Engenharia de Prompt Avançada, Python, Integração de LLMs (Gemini/GPT), e algoritmos de Machine Learning nativos (CS50 AI Harvard).
+    </td>
+    <td width="33%" valign="top">
+      <strong>Infra & Support</strong><br>
+      Docker, Bancos de Dados Relacionais (SQL), Conceitos de Cloud/DevOps e gerenciamento/troubleshooting de sistemas de missão crítica.
+    </td>
+  </tr>
+</table>
