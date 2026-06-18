@@ -22,11 +22,11 @@
 
 <table>
   <tr>
-    <td width="80%" align="center">
+    <td width="40%" align="center">
       <!-- FOTO DE PERFIL / ARTWORK (Estilo Samurai) -->
       <img src="https://i.imgur.com/fypKhza.jpeg" width="90%">
     </td>
-    <td width="60%" valign="top">
+    <td width="90%" valign="top">
       <p>Hey there, I'm Gustavo Santos.</p>
       <p>Sou estudante de Engenharia de Software (5º período) focado em construir arquiteturas de backend sólidas e workflows automatizados orientados a Inteligência Artificial. Meu objetivo é transformar processos manuais complexos em sistemas inteligentes e eficientes.</p>
       <p>Minha bagagem une o rigor técnico da engenharia com a prática em soluções de IA e suporte a infraestruturas de missão crítica no setor de hospitalidade (Hilton Copacabana). Busco constantemente aplicar boas práticas de design como SOLID e Clean Architecture para garantir escalabilidade e segurança.</p>
