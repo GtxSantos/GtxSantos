@@ -8,7 +8,7 @@
   <a href="https://github.com/GtxSantos"><img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gustavo-santos-076729321/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="gt.santosx04@gmail.com"><img src="https://img.shields.io/badge/GMAIL-111111?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="portfolio-2026-iota-rosy.vercel.app"><img src="https://img.shields.io/badge/RESUME-111111?style=flat-square&logo=readme&logoColor=white"></a>
+  <a href="https://portfolio-2026-iota-rosy.vercel.app"><img src="https://img.shields.io/badge/RESUME-111111?style=flat-square&logo=readme&logoColor=white"></a>
 
   <br>
 
