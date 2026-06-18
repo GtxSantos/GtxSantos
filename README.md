@@ -1,14 +1,14 @@
 <div align="center">
-  <!-- BANNER: Substitua a URL abaixo por uma imagem de samurai/mangá de sua preferência se quiser mudar o estilo visual -->
+
   <img src="https://i.imgur.com/XO7msNz.jpeg" width="100%" alt="Gustavo Dev Banner">
 
   <br>
 
   <!-- BOTÕES SOCIAIS -->
-  <a href="SEU_LINK_DO_GITHUB"><img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/GMAIL-111111?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="SEU_LINK_DO_CURRICULO_OU_PORTFOLIO"><img src="https://img.shields.io/badge/RESUME-111111?style=flat-square&logo=readme&logoColor=white"></a>
+  <a href="https://github.com/GtxSantos"><img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="www.linkedin.com/in/gustavo-santos-076729321"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="gt.santosx04@gmail.com"><img src="https://img.shields.io/badge/GMAIL-111111?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="portfolio-2026-iota-rosy.vercel.app"><img src="https://img.shields.io/badge/RESUME-111111?style=flat-square&logo=readme&logoColor=white"></a>
 
   <br>
 
@@ -28,7 +28,7 @@
     </td>
     <td width="90%" valign="top">
       <p>Hey there, I'm Gustavo Santos.</p>
-      <p>Sou estudante de Engenharia de Software (5º período) focado em construir arquiteturas de backend sólidas e workflows automatizados orientados a Inteligência Artificial. Meu objetivo é transformar processos manuais complexos em sistemas inteligentes e eficientes.</p>
+      <p>Sou estudante de Engenharia de Software (6º período) focado em construir arquiteturas de backend sólidas e workflows automatizados orientados a Inteligência Artificial. Meu objetivo é transformar processos manuais complexos em sistemas inteligentes e eficientes.</p>
       <p>Minha bagagem une o rigor técnico da engenharia com a prática em soluções de IA e suporte a infraestruturas de missão crítica no setor de hospitalidade (Hilton Copacabana). Busco constantemente aplicar boas práticas de design como SOLID e Clean Architecture para garantir escalabilidade e segurança.</p>
       <p>O trabalho que mais me brilha os olhos envolve arquitetura de dados, orquestração de agentes autônomos e criação de APIs robustas que entregam impacto direto e mensurável no negócio.</p>
     </td>
