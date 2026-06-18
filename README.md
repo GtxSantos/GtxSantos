@@ -24,7 +24,7 @@
   <tr>
     <td width="40%" align="center">
       <!-- FOTO DE PERFIL / ARTWORK (Estilo Samurai) -->
-      <img src="https://raw.githubusercontent.com/Victor884/Victor884/main/avatar.jpg" width="90%">
+      <img src="https://i.imgur.com/fypKhza.jpeg" width="90%">
     </td>
     <td width="60%" valign="top">
       <p>Hey there, I'm Gustavo Santos.</p>
