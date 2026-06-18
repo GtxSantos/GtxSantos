@@ -1,6 +1,6 @@
 <div align="center">
   <!-- BANNER: Substitua a URL abaixo por uma imagem de samurai/mangá de sua preferência se quiser mudar o estilo visual -->
-  <img src="[https://raw.githubusercontent.com/Victor884/Victor884/main/banner.jpg](https://i.imgur.com/XO7msNz.jpeg)" width="100%" alt="Gustavo Dev Banner">
+  <img src="https://i.imgur.com/XO7msNz.jpeg" width="100%" alt="Gustavo Dev Banner">
 
   <br>
 
