@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td width="40%" align="center">
+    <td width="80%" align="center">
       <!-- FOTO DE PERFIL / ARTWORK (Estilo Samurai) -->
       <img src="https://i.imgur.com/fypKhza.jpeg" width="90%">
     </td>
