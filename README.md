@@ -4,7 +4,6 @@
 
   <br>
 
-  <!-- BOTÕES SOCIAIS -->
   <a href="https://github.com/GtxSantos"><img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gustavo-santos-076729321/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="gt.santosx04@gmail.com"><img src="https://img.shields.io/badge/GMAIL-111111?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -12,7 +11,6 @@
 
   <br>
 
-  <!-- PILLS DE MEIOS DE ATUAÇÃO -->
   <img src="https://img.shields.io/badge/BACKEND%20DEVELOPMENT-0d1117?style=flat-square"> <img src="https://img.shields.io/badge/AI%20AUTOMATION-0d1117?style=flat-square"> <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0d1117?style=flat-square">
 </div>
 
@@ -20,13 +18,12 @@
 
 ## Know About Me
 
-<table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="40%" align="center">
-      <!-- FOTO DE PERFIL / ARTWORK (Estilo Samurai) -->
-      <img src="https://i.imgur.com/fypKhza.jpeg" width="90%">
+    <td width="60%" align="center" valign="middle">
+      <img src="https://i.imgur.com/fypKhza.jpeg" width="100%" style="display: block; margin: 0 auto;">
     </td>
-    <td width="90%" valign="top">
+    <td width="40%" valign="top">
       <p>Hey there, I'm Gustavo Santos.</p>
       <p>Sou estudante de Engenharia de Software (6º período) focado em construir arquiteturas de backend sólidas e workflows automatizados orientados a Inteligência Artificial. Meu objetivo é transformar processos manuais complexos em sistemas inteligentes e eficientes.</p>
       <p>Minha bagagem une o rigor técnico da engenharia com a prática em soluções de IA e suporte a infraestruturas de missão crítica no setor de hospitalidade (Hilton Copacabana). Busco constantemente aplicar boas práticas de design como SOLID e Clean Architecture para garantir escalabilidade e segurança.</p>
@@ -40,7 +37,6 @@
 ## Technical Arsenal
 
 <div align="center">
-  <!-- BADGES DO ARSENAL TÉCNICO -->
   <img src="https://img.shields.io/badge/PYTHON-111111?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet&logoColor=white">
@@ -55,7 +51,6 @@
 
 <br>
 
-<!-- TABELA DE SUB-ÁREAS (IGUAL AO RODAPÉ DA IMAGEM) -->
 <table>
   <tr>
     <td width="33%" valign="top">
