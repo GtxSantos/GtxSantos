@@ -24,10 +24,10 @@
       <img src="https://i.imgur.com/H24dO5j.jpeg" width="100%" style="display: block; margin: 0 auto;">
     </td>
     <td width="40%" valign="top">
-      <p>Hey there, I'm Gustavo Santos.</p>
-      <p>Sou estudante de Engenharia de Software (6º período) focado em construir arquiteturas de backend sólidas e workflows automatizados orientados a Inteligência Artificial. Meu objetivo é transformar processos manuais complexos em sistemas inteligentes e eficientes.</p>
-      <p>Minha bagagem une o rigor técnico da engenharia com a prática em soluções de IA e suporte a infraestruturas de missão crítica no setor de hospitalidade (Hilton Copacabana). Busco constantemente aplicar boas práticas de design como SOLID e Clean Architecture para garantir escalabilidade e segurança.</p>
-      <p>O trabalho que mais me brilha os olhos envolve arquitetura de dados, orquestração de agentes autônomos e criação de APIs robustas que entregam impacto direto e mensurável no negócio.</p>
+     <p>Hey there, I'm Gustavo Santos.</p>
+<p>I am a Software Engineering student (6th semester) focused on building solid backend architectures and AI-driven automated workflows. My goal is to transform complex manual processes into intelligent, efficient systems.</p>
+<p>My background combines the technical rigor of engineering with practical experience in AI solutions and mission-critical infrastructure support within the hospitality sector (Hilton Copacabana). I constantly strive to apply design best practices such as SOLID and Clean Architecture to ensure scalability and security.</p>
+<p>The work that drives me the most involves data architecture, autonomous agent orchestration, and creating robust APIs that deliver direct, measurable business impact.</p>
     </td>
   </tr>
 </table>
