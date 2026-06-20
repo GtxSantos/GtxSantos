@@ -21,7 +21,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" align="center" valign="middle">
-      <img src="https://i.imgur.com/fypKhza.jpeg" width="100%" style="display: block; margin: 0 auto;">
+      <img src="https://i.imgur.com/H24dO5j.jpeg" width="100%" style="display: block; margin: 0 auto;">
     </td>
     <td width="40%" valign="top">
       <p>Hey there, I'm Gustavo Santos.</p>
