@@ -1,6 +1,6 @@
 # Hey there, I'm Gustavo Santos 👋
 
-I'm a **Software Engineering student (6th semester)** focused on building solid backend architectures and AI-driven automated workflows. My goal is to transform complex manual processes into intelligent, efficient systems.
+I'm a **Software Engineering student (7th semester)** focused on building solid backend architectures and AI-driven automated workflows. My goal is to transform complex manual processes into intelligent, efficient systems.
 
 My background combines the technical rigor of engineering with practical experience in AI solutions and mission-critical infrastructure support within the hospitality sector (**Hilton Copacabana**). I constantly strive to apply design best practices such as **SOLID** and **Clean Architecture** to ensure scalability and security.
 
