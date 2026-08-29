@@ -33,11 +33,6 @@ Agentic workflows in n8n, advanced prompt engineering, LLM integration (Gemini/G
 Docker, relational databases (SQL), Cloud/DevOps fundamentals, and mission-critical systems troubleshooting.
 
 ---
-
-## 📊 GitHub Stats
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gtxsantos&show_icons=true&theme=default)
-
 ---
 
 ## 📫 Let's connect
